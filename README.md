@@ -1,6 +1,8 @@
 DOM project/progetto DOM
 
-IT Progetto eseguito durante il corso Hackedemy+ aulab 164
+IT 
+
+Progetto eseguito durante il corso Hackedemy+ aulab 164
 
 
 In questo progetto vedrete un sito fittizio per la compra/vendita di merchandise Pokèmon,il sito è puntato a mostrare:
