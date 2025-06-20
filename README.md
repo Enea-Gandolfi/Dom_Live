@@ -2,7 +2,7 @@ DOM project/progetto DOM
 
 IT 
 
-Progetto eseguito durante il corso Hackedemy+ aulab 164
+Progetto eseguito durante il corso Hackademy+ aulab 164
 
 
 In questo progetto vedrete un sito fittizio per la compra/vendita di merchandise Pokèmon,il sito è puntato a mostrare:
@@ -25,7 +25,7 @@ Nel sito sono presenti elementi puramente visivi come:
 
 GB
 
-Project carried out during the Hackedemy+ course by Aulab 164
+Project carried out during the Hackademy+ course by Aulab 164
 
 
 In this project, you will see a fictional website for buying and selling Pokémon merchandise. 
