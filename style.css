@@ -1,0 +1,310 @@
+:root {
+      --black: #242424;
+      --red: #C52018;
+      --yellow: #F6E652;
+      --white: #f5f7f9;
+}
+
+body {
+      overflow-x: hidden;
+}
+
+* {
+      font-family: "Outfit", sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+.h1,
+.h2,
+.h3 {
+      font-family: "Krona One", sans-serif;
+}
+
+.tx-black {
+      color: var(--black);
+}
+
+.tx-red {
+      color: var(--red);
+}
+
+.tx-yellow {
+      color: var(--yellow);
+}
+
+.tx-white {
+      color: var(--white);
+}
+
+.bg-black {
+      background-color: var(--black);
+}
+
+.bg-red {
+      background-color: var(--red);
+}
+
+.bg-yellow {
+      background-color: var(--yellow);
+}
+
+.bg-white {
+      color: var(--white);
+}
+
+
+.margin-black {
+      margin: 2px solid var(--black);
+}
+
+.margin-red {
+      margin: 2px solid var(--red);
+}
+
+.margin-yellow {
+      margin: 2px solid var(--yellow);
+}
+
+.margin-white {
+      margin: 2px solid var(--white);
+}
+
+/* fine impostazioni css */
+
+/* navbar */
+
+nav {
+      background-color: var(--white);
+}
+
+.navbar-custom {
+      position: fixed;
+      top: 0;
+      width: 100%;
+      z-index: 2;
+      height: 100px;
+}
+
+.navbar-toggler{
+      margin: 8px;
+}
+
+.ham1 {
+      color: var(--yellow);
+}
+
+.ham2 {
+      color: var(--red);
+}
+
+
+.bg-white-nav {
+      background-color: var(--white);
+      transition: 0.8s;
+}
+
+.img-logo {
+      height: 80px;
+      width: 100px;
+}
+
+.nav-link {
+      font-weight: bold;
+      color: var(--red);
+      padding: 3px;
+      margin-right: 5px;
+}
+
+.nav-link:hover {
+      border-bottom: 4px solid var(--red);
+
+}
+
+
+
+.fa-solid {
+      font-size: 20px;
+}
+
+.fa-regular {
+      font-size: 20px;
+}
+
+.nav-scroll {
+      background-color: var(--black);
+      transition: 0.8s;
+}
+
+.collapse1 {
+      background-color: var(--white);
+      transition: 0.8s;
+}
+
+.collapse2 {
+      background-color: var(--black);
+      transition: 0.8s;
+}
+
+/* fine navbar */
+
+/* css header */
+
+
+.header-custom {
+      height: 100vh;
+      width: 100%;
+      margin-top: 100px;
+      background: linear-gradient(rgba(250, 250, 250, 0.8), rgba(26, 26, 26, 0.4)), url(/media/carte.jpg);
+      background-size: cover;
+      background-repeat: no-repeat;
+      background-position: center;
+}
+
+.form-control {
+      width: 80%;
+      margin-left: 5px;
+}
+
+.form-control-header {
+      width: 60%;
+}
+
+.btn-custom {
+      background-color: var(--black);
+      color: var(--white);
+      border: 2px solid var(--red);
+      height: 50px;
+      width: 100px;
+}
+
+.btn-custom:hover {
+      background-color: #98C8DE;
+      color: var(--black);
+      border: 2px solid #9473B4;
+      height: 50px;
+      width: 100px;
+}
+
+
+/* fine css header */
+
+/* css section */
+
+
+.img-poke {
+      height: 50vh;
+
+}
+
+.p-font {
+      font-size: 25px;
+}
+
+.section-animate {
+      min-height: 50vh;
+      width: 100%;
+}
+
+.section-animate2 {
+      min-height: 50vh;
+}
+
+
+.btn-custom2 {
+      background-color: var(--white);
+      color: var(--black);
+      border-bottom: 2px solid #ef8328;
+      height: 40px;
+      width: 100px;
+      box-shadow: 3px 3px 8px var(--red);
+}
+
+.btn-custom2:hover {
+      background-color: var(--black);
+      color: var(--yellow);
+      border: 2px solid var(--black);
+      height: 40px;
+      width: 100px;
+}
+
+.section-number {
+      height: 80vh;
+      background: linear-gradient(rgba(250, 250, 250, 0.5), rgba(26, 26, 26, 0.4)), url(/media/pokesmile.jpg);
+      background-position: center;
+      background-size: cover;
+}
+
+.row-numbers {
+      height: 80vh;
+}
+
+.number {
+      font-size: 30px;
+      font-weight: 700;
+}
+
+/* fine css homepage */
+
+/* css shop */
+
+
+.shopHeader {
+      margin-top: 100px;
+      width: 100%;
+}
+
+.accordion-button:not(.collapsed) {
+      background-color: var(--yellow);
+      color: var(--black);
+}
+
+.accordion-button:focus {
+      box-shadow: none;
+}
+
+.form-check-input:checked {
+      background-color: var(--yellow);
+      border-color: var(--black);
+}
+
+.card-custom {
+      height: 490px;
+      width: 30%;
+      border: 1px solid var(--black);
+      color: var(--black);
+      margin-top: 10px;
+      text-align: center;
+}
+
+.card-custom-shop {
+      height: 350px;
+      width: 100%;
+      padding:5px;
+}
+
+.card {
+      --bs-card-border-color: none;
+}
+
+.titleShopCard {
+      font-size: 20px;
+}
+
+
+.iconFooter:hover{
+      transform: scale(1.2);
+}
+
+
+@media (max-width: 768px) {
+      .card-custom {
+            width: 60%;
+      
+      }
+
+      
+}

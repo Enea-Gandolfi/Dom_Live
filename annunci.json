@@ -1,0 +1,247 @@
+[
+    {
+        "id": 1,
+        "name": "Salamance",
+        "category": "TCG",
+        "price": "49.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_187.png"
+    },
+    {
+        "id": 2,
+        "name": "Wailord",
+        "category": "TCG",
+        "price": "3.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_41.png"
+    },
+    {
+        "id": 3,
+        "name": "Clefairy EX",
+        "category": "TCG",
+        "price": "9.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_56.png"
+    },
+    {
+        "id": 4,
+        "name": "Megearna",
+        "category": "TCG",
+        "price": "4.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_107.png"
+    },
+    {
+        "id": 5,
+        "name": "Reshiram",
+        "category": "TCG",
+        "price": "3.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_116.png"
+    },
+    {
+        "id": 6,
+        "name": "Perla di Lylia",
+        "category": "TCG",
+        "price": "2.30",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_151.png"
+    },
+    {
+        "id": 7,
+        "name": "Furret",
+        "category": "TCG",
+        "price": "19.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_168.png"
+    },
+    {
+        "id": 8,
+        "name": "Bellibolt EX",
+        "category": "TCG",
+        "price": "44.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_172.png"
+    },
+    {
+        "id": 9,
+        "name": "Zorua EX",
+        "category": "TCG",
+        "price": "19.90",
+        "image": "https://assets.pokemon.com/static-assets/content-assets/cms2-it-it/img/cards/web/SV09/SV09_IT_175.png"
+    },
+    {
+        "id": 10,
+        "name": "Growlithe plush ",
+        "category": "Plush",
+        "price": "54.99",
+        "image": "https://www.pokemoncenter.com/images/DAMRoot/Full-Size/10010/P10723_72-10049-101_01.jpg"
+    },
+    {
+        "id": 11,
+        "name": "Sleeping Cubone plush",
+        "category": "Plush",
+        "price": "29.99",
+        "image": "https://www.pokemoncenter.com/images/DAMRoot/Full-Size/10000/P9461_701E10012_01.jpg"
+    },
+    {
+        "id": 12,
+        "name": "Charizard 30cm",
+        "category": "Plush",
+        "price": "31",
+        "image": "https://m.media-amazon.com/images/I/719YxReJSQL.__AC_SY300_SX300_QL70_ML2_.jpg"
+    },
+    {
+        "id": 13,
+        "name": "Mew 20cm",
+        "category": "Plush",
+        "price": "23.99",
+        "image": "https://m.media-amazon.com/images/I/7189WuyJkiL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+        "id": 14,
+        "name": "Blastoise 30cm",
+        "category": "Plush",
+        "price": "31",
+        "image": "https://m.media-amazon.com/images/I/81qE0QViKBL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 15,
+        "name": "Maglia starter+pikachu",
+        "category": "Maglie",
+        "price": "19.90",
+        "image": "https://m.media-amazon.com/images/I/61SzqHYkEWS._AC_UL320_.jpg"
+    },
+    {
+        "id": 16,
+        "name": "Maglia Munchlax",
+        "category": "Maglie",
+        "price": "28.99",
+        "image": "https://m.media-amazon.com/images/I/61NezfLNhEL._AC_SX569_.jpg"
+    },
+    {
+        "id": 17,
+        "name": "T-shirt Charmander",
+        "category": "Maglie",
+        "price": "28.65",
+        "image": "https://m.media-amazon.com/images/I/61s3+XXX+6L._AC_SX569_.jpg"
+    },
+    {
+        "id": 18,
+        "name": "Portafoglio Gengar",
+        "category": "Accessori",
+        "price": "23.99",
+        "image": "https://m.media-amazon.com/images/I/71T-ZFTfwML._AC_SL1500_.jpg"
+    },
+    {
+        "id": 19,
+        "name": "Portafoglio Charizard",
+        "category": "Accessori",
+        "price": "15.99",
+        "image": "https://m.media-amazon.com/images/I/71f0bFdBSbL._AC_SL1500_.jpg"
+    },
+    {
+        "id": 20,
+        "name": "Borsetta bambina rosa",
+        "category": "Zaino",
+        "price": "17",
+        "image": "https://m.media-amazon.com/images/I/913jBL12QuL._AC_SX569_.jpg"
+    },
+    {
+        "id": 21,
+        "name": "Zaino pokèball",
+        "category": "Zaino",
+        "price": "19.50",
+        "image": "https://m.media-amazon.com/images/I/81Nq2K4nPFS._AC_SX569_.jpg"
+    },
+    {
+        "id": 22,
+        "name": "Set scuola Pikachu ",
+        "category": "Set",
+        "price": "40.95",
+        "image": "https://m.media-amazon.com/images/I/81GsJyV56wL._AC_SX466_.jpg"
+    },
+    {
+        "id": 23,
+        "name": "Impermeabile bambino",
+        "category": "Giacche",
+        "price": "32.50",
+        "image": "https://m.media-amazon.com/images/I/81ogRtqO87L._AC_SX569_.jpg"
+    },
+    {
+        "id": 24,
+        "name": "Eevee plush 20cm",
+        "category": "Plush",
+        "price": "25.78",
+        "image": "https://m.media-amazon.com/images/I/7179rVOtKwL.__AC_SX300_SY300_QL70_ML2_.jpg"
+    },
+    {
+        "id": 25,
+        "name": "Tuta grigia pokemon",
+        "category": "Tute",
+        "price": "25",
+        "image": "https://m.media-amazon.com/images/I/81OTKwautqL._AC_SX569_.jpg"
+    },
+    {
+        "id": 26,
+        "name": "Giacca Pikachu nera",
+        "category": "Giacche",
+        "price": "68.48",
+        "image": "https://m.media-amazon.com/images/I/61IBgxthPzL._AC_SX466_.jpg"
+    },
+    {
+        "id": 27,
+        "name": "Giacca uomo pokemon",
+        "category": "Giacche",
+        "price": "55",
+        "image": "https://m.media-amazon.com/images/I/61HBi7sadGL._AC_SL1200_.jpg"
+    },
+    {
+        "id": 28,
+        "name": "Berretto Pikachu",
+        "category": "Cappello",
+        "price": "18",
+        "image": "https://m.media-amazon.com/images/I/81qQ-0uM4lL._AC_SX569_.jpg"
+    },
+    {
+        "id": 29,
+        "name": "Berretto Eevee",
+        "category": "Cappello",
+        "price": "19",
+        "image": "https://m.media-amazon.com/images/I/91XNFECFA+L._AC_SX569_.jpg"
+    },
+    {
+        "id": 30,
+        "name": "Berretto Bulbasaur ",
+        "category": "Cappello",
+        "price": "13",
+        "image": "https://m.media-amazon.com/images/I/91PDlb5kiBL._AC_SX569_.jpg"
+    },
+    {
+        "id": 31,
+        "name": "Felpa e pantaloni neri pokemon",
+        "category": "Tute",
+        "price": "27",
+        "image": "https://m.media-amazon.com/images/I/71yf9VycFEL._AC_SX569_.jpg"
+    },
+    {
+        "id": 32,
+        "name": " Onesie Pikachu",
+        "category": "Onesie",
+        "price": "32.49",
+        "image": "https://m.media-amazon.com/images/I/71ophgdhcFL._AC_SY606_.jpg"
+    },
+    {
+        "id": 33,
+        "name": "Onesie Charmander",
+        "category": "Onesie",
+        "price": "34.99",
+        "image": "https://m.media-amazon.com/images/I/714BM3OM1JL._AC_SX569_.jpg"
+    },
+    {
+        "id": 34,
+        "name": "Onesie Squirtle",
+        "category": "Onesie",
+        "price": "36.91",
+        "image": "https://m.media-amazon.com/images/I/61w48J-pIOL._AC_SY606_.jpg"
+    },
+    {
+        "id": 35,
+        "name": "Onesie Snorlax",
+        "category": "Onesie",
+        "price": "36.59",
+        "image": "https://m.media-amazon.com/images/I/61vmlrmhL9L._AC_SY606_.jpg"
+    }
+]
